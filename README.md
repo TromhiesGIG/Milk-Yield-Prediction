@@ -1,7 +1,5 @@
 # Crop-Yield-Prediction-System
 
-![home](https://github.com/MainakRepositor/Crop-Yield-Prediction/assets/64016811/c737caa4-71c9-4bb0-8590-6a1793f6c594)
-
 
 ### Problem : 
 
